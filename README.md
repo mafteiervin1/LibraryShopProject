@@ -3,3 +3,6 @@ Proiectul nostru este o aplicate Java GUI care permite unui utilizator inregistr
 In prezent nu este realizata conexiunea butonului de trimitere comanda(Send Command) cu baza de date(nu realizeaza in baza de date o updatare a tabelei vanzari si inventar) si a field-ului "Total Value" care trebuie sa contina valoarea totala a cartilor din comanda utilizatorului.
 Toate tabelele au fost populate cu date generate "random".Nu sunt siruri de caractere random, au un oarecare sens,dar nu sunt date reale.
 Tabelele utilizate de aplicatia java sunt: BOOKS,EDITOR,INVENTAR,LIBRARIE,USERSS,VANZARI.Baza de date este SQL, si este lucrata in Oracle PL/SQL 11g.
+
+Autori: Maftei Ervin(maftei.ervin@yahoo.com, 0730294220)
+        Negrus Bogdan-Andrei(negrus.bogdan@gmail.com, 0746614482)
