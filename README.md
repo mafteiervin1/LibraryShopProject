@@ -4,5 +4,5 @@ In prezent nu este realizata conexiunea butonului de trimitere comanda(Send Comm
 Toate tabelele au fost populate cu date generate "random".Nu sunt siruri de caractere random, au un oarecare sens,dar nu sunt date reale.
 Tabelele utilizate de aplicatia java sunt: BOOKS,EDITOR,INVENTAR,LIBRARIE,USERSS,VANZARI.Baza de date este SQL, si este lucrata in Oracle PL/SQL 11g.Baza de date contine si triggere, view-uri(unul materializat si unul nematerializat)si indexi(ne ajuta sa afisam datele mult mai rapid,avand foarte multe date: aproximativ 260000 de utilizatori si 500000 de carti)
 
-Autori: Maftei Ervin(maftei.ervin@yahoo.com, 0730294220)
-        Negrus Bogdan-Andrei(negrus.bogdan@gmail.com, 0746614482)
+Autori: Maftei Ervin(maftei.ervin@yahoo.com)
+        Negrus Bogdan-Andrei(negrus.bogdan@gmail.com)
